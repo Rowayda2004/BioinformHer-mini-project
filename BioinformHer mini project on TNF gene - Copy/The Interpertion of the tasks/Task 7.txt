@@ -1,0 +1,46 @@
+Task 7
+
+ the first section tells about :
+
+ the details of the sequence ( TNF in fasta form )
+
+ The Lengh of the sequence wich is : 2815 bp
+
+ GC content wich is : 52.82 %
+
+
+ 
+ predicted genes/exons :
+
+ Gn.EX : Just for refrence
+
+ Type : determine the type of exon you are looking at wether it is terminal or internal or 
+        polyA exon.
+
+ S : Where was This Exon
+
+ Begin....End : Start and stop postion of an exon
+
+ LEN : Length of the exon 
+
+ Fr : frame of the Exon
+
+ Ph ; phase of the exon
+
+I/AC : Intiator signal score of the exon
+
+Do/T : terminal intiator of the exon
+
+coding Rg :  coding region core of the exon
+
+P ... : probabability of whether the exon is real or good enough ( the quality of the exon )
+
+
+
+
+
+
+ 
+ 
+
+ 

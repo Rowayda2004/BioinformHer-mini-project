@@ -1,0 +1,37 @@
+Task 6 Images no.1 and 2
+
+Image 1
+
+Three motifs found in TNF sequence :
+
+first motif with :
+
+E-value = 2.6e + 000
+ site it is found = 5
+ width = 38
+
+second motif with :
+
+E-value = 1.0e + 003
+ site it is found = 5
+ width = 32
+
+Third motif with :
+
+E-value = 1.0e + 003
+ site it is found = 4
+ width = 11
+
+scroll down to see the location of each motif and choose what to see wheather the location only or something else with it.
+
+
+Image 2 
+
+  If you want to see more information about particular motif press more button and you can see:
+
+  start postion for each each occurence for this particular motif and other information related to it.
+
+
+  
+
+

@@ -1,0 +1,27 @@
+Task 4 Image No.1 and No.2
+
+Image 1
+
+TNF Gene located in chromosome number 6
+
+lengh = 2772 bp
+
+G+C content = 52.81%
+A+T content = 47.19%
+Therefore GC nucleotides > AT nucleotides
+
+the frequency of nucleotides as in the Image :
+
+A = 709
+c = 680
+G = 784
+T = 599
+
+Image 2
+  
+The graph shows the frequency of each nucleotide:
+
+A = 25.58%
+c = 24.53%
+G = 28.28%
+T = 21.61% 

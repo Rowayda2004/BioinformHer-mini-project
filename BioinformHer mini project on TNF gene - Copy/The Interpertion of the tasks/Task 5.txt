@@ -1,0 +1,15 @@
+Task 5 Images 1 ,2 and 3
+
+Image 1
+
+ List of transcribtion factors that combine to TNF sequence
+
+from Image 1 you can:
+
+ 1. click zoom (Image 2):so you can see where transcribtion factor actually fit in TNF sequence
+
+or
+
+2. If you are interested in specific sequence of the binding site , cick on each of the transcribtion factors
+
+   you will see the sequence of the binding site ( Image 3 ).
